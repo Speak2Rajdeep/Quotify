@@ -1,0 +1,1 @@
+Quotify Application is a Basic application that shows some quotess category wise. This application is created using Jetpack compose and having Dependency Injection, Retrofit, Room Database operations in it.
